@@ -1,0 +1,135 @@
+[
+  {
+    "id": 101,
+    "name": "Gayo",
+    "origin": "Aceh",
+    "imageUrl":
+  },
+  {
+    "id": 102,
+    "name": "Sidikalang",
+    "origin": "North Sumatra",
+    "imageUrl":
+  },
+  {
+    "id": 103,
+    "name": "Mandailing",
+    "origin": "North Sumatra",
+    "imageUrl":
+  },
+  {
+    "id": 104,
+    "name": "Manggarai",
+    "origin": "Flores",
+    "imageUrl":
+  },
+  {
+    "id": 105,
+    "name": "Bajawa",
+    "origin": "Flores",
+    "imageUrl":
+  },
+  {
+    "id": 106,
+    "name": "Merapi",
+    "origin": "Yogyakarta",
+    "imageUrl":
+  },
+  {
+    "id": 107,
+    "name": "Pinogu",
+    "origin": "Gorontalo",
+    "imageUrl":
+  },
+  {
+    "id": 108,
+    "name": "Malinau",
+    "origin": "North Kalimantan",
+    "imageUrl":
+  },
+  {
+    "id": 109,
+    "name": "Sipirok",
+    "origin": "South Tapanuli",
+    "imageUrl":
+  },
+  {
+    "id": 110,
+    "name": "Preanger",
+    "origin": "West Java",
+    "imageUrl":
+  },
+  {
+    "id": 111,
+    "name": "Amungme",
+    "origin": "Papua",
+    "imageUrl":
+  },
+  {
+    "id": 112,
+    "name": "Lahat",
+    "origin": "South Sumatra",
+    "imageUrl":
+  },
+  {
+    "id": 113,
+    "name": "Lintong",
+    "origin": "North Sumatra",
+    "imageUrl":
+  },
+  {
+    "id": 114,
+    "name": "Luwak",
+    "origin": "Indonesia",
+    "imageUrl":
+  },
+  {
+    "id": 115,
+    "name": "Temanggung",
+    "origin": "Central Java",
+    "imageUrl":
+  },
+  {
+    "id": 116,
+    "name": "Dampit",
+    "origin": "East Java",
+    "imageUrl":
+  },
+  {
+    "id": 117,
+    "name": "Sasak Liseng",
+    "origin": "Lombok",
+    "imageUrl":
+  },
+  {
+    "id": 118,
+    "name": "Wamena",
+    "origin": "Papua",
+    "imageUrl":
+  },
+  {
+    "id": 119,
+    "name": "Kintamani",
+    "origin": "Bali",
+    "imageUrl":
+  },
+  {
+    "id": 121,
+    "name": "Manggar",
+    "origin": "Lampung",
+    "imageUrl":
+  },
+  {
+    "id": 122,
+    "name": "Joss",
+    "origin": "Centarl Java",
+    "imageUrl":
+  },
+  {
+    "id": 123,
+    "name": "Rarobang",
+    "origin": "Moluccas",
+    "imageUrl":
+  },
+
+]
