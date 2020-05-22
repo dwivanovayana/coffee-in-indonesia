@@ -16,7 +16,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    const url = "";
+    const url = "https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/master/kopi-indonesia.json";
     fetch(url) //AJAX
       .then(response => response.json())
       .then((data) => {
