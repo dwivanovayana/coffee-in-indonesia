@@ -2,13 +2,9 @@
 import './kopi.css';
 
 class Kopi extends React.Component {
-  handleClick = () => {
-    // Call the parent methos selectedFlat
-    this.props.selectedKopi(this.props.kopi)
-  }
   render() {
     const title =
-    "Kopi " + this.props.kopi.name +
+    this.props.kopi.name + " coffee" +
     " - " +  this.props.kopi.origin;
 
     const style = {
@@ -16,7 +12,7 @@ class Kopi extends React.Component {
     };
 
     return (
-      <div className="kopi" onClick={this.handleClick}>
+      <div className="kopi">
         <div className="kopi-image" style={style}></div>
         <div className="kopi-title">
          {title}

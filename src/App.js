@@ -8,7 +8,6 @@ class App extends React.Component {
     this.state = {
       kopis: [],
       allKopis: [],
-      selectedKopi : null,
       search: ""
     };
   }
@@ -25,13 +24,6 @@ class App extends React.Component {
       });
   }
 
-  selectedKopi = (kopi) => {
-    console.log(kopi)
-    this.setState({
-      selectedKopi: kopi
-    })
-  }
-
   handleSearch = (event) => {
     this.setState({
       search: event.target.value,
@@ -46,33 +38,17 @@ class App extends React.Component {
           <div className="search">
             <input
               type="text"
-              placeholder="Search..."
+              placeholder="Search coffee name ☕️..."
               value={this.state.search}
               onChange={this.handleSearch}
             />
           </div>
           <div className="kopis">
             {this.state.kopis.map((kopi) => {
-              return <Kopi key={kopi.name} kopi={kopi} selectedKopi={this.selectedKopi}/>
+              return <Kopi key={kopi.name} kopi={kopi} />
             })}
           </div>
         </div>
-        {/* <div className="map">
-          <GoogleMapReact
-            defaultCenter={center}
-            defaultZoom={14}
-          >
-          {this.state.kopis.map((kopi) => {
-              return <Marker
-                        key={kopi.name}
-                        lat={kopi.lat}
-                        lng={kopi.lng}
-                        text={kopi.price}
-                        selected={kopi === this.state.selectedKopi}
-                      />
-            })}
-          </GoogleMapReact>
-        </div> */}
       </div>
     )
   }
