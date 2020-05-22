@@ -9,7 +9,7 @@ class Kopi extends React.Component {
   render() {
     const title =
     "Kopi " + this.props.kopi.name +
-    " - " +  this.props.kopi.daerah;
+    " - " +  this.props.kopi.origin;
 
     const style = {
       backgroundImage: `url('${this.props.kopi.imageUrl}')`

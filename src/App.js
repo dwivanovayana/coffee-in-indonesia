@@ -1,8 +1,6 @@
 import React from 'react';
-// import GoogleMapReact from 'google-map-react';
 import './App.css';
 import Kopi from './components/kopi'
-import Marker from './components/marker'
 
 class App extends React.Component {
   constructor(props) {
@@ -42,18 +40,6 @@ class App extends React.Component {
   }
 
   render() {
-    let center = {
-      lat: 52.5200,
-      lng: 13.4050
-    }
-
-    if (this.setState.selectedKopi) {
-      center = {
-        lat: this.setState.selectedKopi.lan,
-        lng: this.setState.selectedKopi.lng
-      }
-    }
-
     return (
       <div className="app">
         <div className="main">

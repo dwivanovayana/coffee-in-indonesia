@@ -21,14 +21,6 @@
   padding-left: 5px;
 }
 
-/*.map {
-  flex-growth: 1;
-  height: 100vh;
-  width: 40%;
-  top: 0;
-  position: sticky;
-}*/
-
 .kopis {
   display: flex;
   flex-wrap: wrap;
