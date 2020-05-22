@@ -3,133 +3,133 @@
     "id": 101,
     "name": "Gayo",
     "origin": "Aceh",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi6.jpg"
   },
   {
     "id": 102,
     "name": "Sidikalang",
     "origin": "North Sumatra",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi7.jpg"
   },
   {
     "id": 103,
     "name": "Mandailing",
     "origin": "North Sumatra",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi8.jpg"
   },
   {
     "id": 104,
     "name": "Manggarai",
     "origin": "Flores",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi9.jpg"
   },
   {
     "id": 105,
     "name": "Bajawa",
     "origin": "Flores",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi10.jpg"
   },
   {
     "id": 106,
     "name": "Merapi",
     "origin": "Yogyakarta",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi11.jpg"
   },
   {
     "id": 107,
     "name": "Pinogu",
     "origin": "Gorontalo",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi12.jpg"
   },
   {
     "id": 108,
     "name": "Malinau",
     "origin": "North Kalimantan",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi13.jpg"
   },
   {
     "id": 109,
     "name": "Sipirok",
     "origin": "South Tapanuli",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi14.jpg"
   },
   {
     "id": 110,
     "name": "Preanger",
     "origin": "West Java",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi15.jpg"
   },
   {
     "id": 111,
     "name": "Amungme",
     "origin": "Papua",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi16.jpg"
   },
   {
     "id": 112,
     "name": "Lahat",
     "origin": "South Sumatra",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi17.jpg"
   },
   {
     "id": 113,
     "name": "Lintong",
     "origin": "North Sumatra",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi18.jpg"
   },
   {
     "id": 114,
     "name": "Luwak",
     "origin": "Indonesia",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi-luwak.jpg"
   },
   {
     "id": 115,
     "name": "Temanggung",
     "origin": "Central Java",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi19.jpg"
   },
   {
     "id": 116,
     "name": "Dampit",
     "origin": "East Java",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi20.jpg"
   },
   {
     "id": 117,
     "name": "Sasak Liseng",
     "origin": "Lombok",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi21.jpg"
   },
   {
     "id": 118,
     "name": "Wamena",
     "origin": "Papua",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi22.jpg"
   },
   {
     "id": 119,
     "name": "Kintamani",
     "origin": "Bali",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi23.jpg"
   },
   {
     "id": 121,
     "name": "Manggar",
     "origin": "Lampung",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi24.jpg"
   },
   {
     "id": 122,
     "name": "Joss",
     "origin": "Centarl Java",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi-joss.jpg"
   },
   {
     "id": 123,
     "name": "Rarobang",
     "origin": "Moluccas",
-    "imageUrl":
+    "imageUrl":"https://raw.githubusercontent.com/novatogatorop/coffee-in-indonesia/images/kopi-rarobang.jpg"
   },
 
 ]
